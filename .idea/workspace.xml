@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6507143c-1d25-4c9e-973d-4331f1d5707c" name="Changes" comment="add license">
-      <change beforePath="$PROJECT_DIR$/TokyoPurple/frontendImpl/src/jvmMain/resources/com.asboy2035.TokyoPurple-Light.json" beforeDir="false" afterPath="$PROJECT_DIR$/TokyoPurple/frontendImpl/src/jvmMain/resources/com.asboy2035.TokyoPurple-Light.json" afterDir="false" />
+    <list default="true" id="6507143c-1d25-4c9e-973d-4331f1d5707c" name="Changes" comment="update light mode">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +80,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;org.rust.first.attach.projects&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Language Defaults&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -103,8 +103,11 @@
       </ExternalSystemSettings>
       <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
       <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <ExternalSystemDebugDisabled>false</ExternalSystemDebugDisabled>
       <DebugAllEnabled>false</DebugAllEnabled>
       <RunAsTest>false</RunAsTest>
+      <GradleProfilingDisabled>false</GradleProfilingDisabled>
+      <GradleCoverageDisabled>false</GradleCoverageDisabled>
       <method v="2" />
     </configuration>
     <configuration name="Clean" type="GradleRunConfiguration" factoryName="Gradle">
@@ -125,8 +128,11 @@
       </ExternalSystemSettings>
       <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
       <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <ExternalSystemDebugDisabled>false</ExternalSystemDebugDisabled>
       <DebugAllEnabled>false</DebugAllEnabled>
       <RunAsTest>false</RunAsTest>
+      <GradleProfilingDisabled>false</GradleProfilingDisabled>
+      <GradleCoverageDisabled>false</GradleCoverageDisabled>
       <method v="2" />
     </configuration>
     <configuration name="Run Fleet" type="GradleRunConfiguration" factoryName="Gradle">
@@ -147,8 +153,11 @@
       </ExternalSystemSettings>
       <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
       <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <ExternalSystemDebugDisabled>false</ExternalSystemDebugDisabled>
       <DebugAllEnabled>false</DebugAllEnabled>
       <RunAsTest>false</RunAsTest>
+      <GradleProfilingDisabled>false</GradleProfilingDisabled>
+      <GradleCoverageDisabled>false</GradleCoverageDisabled>
       <method v="2" />
     </configuration>
     <configuration default="true" type="JetRunConfigurationType">
@@ -161,9 +170,9 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Gradle.Run Fleet" />
       <item itemvalue="Gradle.Build" />
       <item itemvalue="Gradle.Clean" />
+      <item itemvalue="Gradle.Run Fleet" />
     </list>
   </component>
   <component name="RustProjectSettings">
@@ -187,6 +196,10 @@
       <workItem from="1743535360668" duration="84000" />
       <workItem from="1752161118277" duration="3978000" />
       <workItem from="1752165975706" duration="3002000" />
+      <workItem from="1752169012408" duration="412000" />
+      <workItem from="1752170192674" duration="235000" />
+      <workItem from="1752170444974" duration="9000" />
+      <workItem from="1752170467321" duration="5119000" />
     </task>
     <task id="LOCAL-00001" summary="initial content">
       <option name="closed" value="true" />
@@ -220,7 +233,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752168087855</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update light mode">
+      <option name="closed" value="true" />
+      <created>1752169151530</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1752169151530</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -231,6 +252,7 @@
     <MESSAGE value="add readme" />
     <MESSAGE value="update themes" />
     <MESSAGE value="add license" />
-    <option name="LAST_COMMIT_MESSAGE" value="add license" />
+    <MESSAGE value="update light mode" />
+    <option name="LAST_COMMIT_MESSAGE" value="update light mode" />
   </component>
 </project>
